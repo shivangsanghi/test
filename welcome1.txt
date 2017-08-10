@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 welcome updated from test 12
+=======
+welcome updated from test 1
+>>>>>>> 3afe99c589d0de0ff6cf481bafa90c2d934db7df
